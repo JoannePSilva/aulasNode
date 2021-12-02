@@ -1,0 +1,12 @@
+{
+  "name": "aula71_nodejs",
+  "version": "1.0.0",
+  "description": "Atividade realizada em node",
+  "main": "Cadastro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joanne",
+  "license": "ISC",
+  "type":"module"
+}
