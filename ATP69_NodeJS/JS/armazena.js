@@ -1,6 +1,6 @@
-
-const ola = 0
+//let é uma variável mutável
+let ola = 0
 while(ola <= 5){
-    ola++
-    document.write("Bem-vinda a nossa page")
+   console.log("Bem-vinda a nossa page") 
+   ola++
 }
